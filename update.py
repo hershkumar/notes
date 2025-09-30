@@ -1,5 +1,5 @@
 
-TARGET_DIR = "/Users/hersh/Documents/School/work"
+TARGET_DIR = "/Users/hersh/Documents/work"
 import os
 import shutil
 import re
